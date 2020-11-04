@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae1d555d-443c-418f-855f-f440981304cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/SessionActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LinkBtn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar-components/CalendarGrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar-components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar-components/SettingData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar-components/styleCalendarPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/calendar-components/styleGrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/InfoContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/LoginContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/ProfileContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/network.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jjtIzA8VIig8Fi4hgee0NZWRg0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.webpack" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1d555d-443c-418f-855f-f440981304cd" name="Default Changelist" comment="" />
+      <created>1604329253392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604329253392</updated>
+      <workItem from="1604329261251" duration="2616000" />
+      <workItem from="1604350852304" duration="684000" />
+      <workItem from="1604351612859" duration="12692000" />
+      <workItem from="1604371855319" duration="12370000" />
+      <workItem from="1604445126740" duration="7331000" />
+      <workItem from="1604492068453" duration="3520000" />
+      <workItem from="1604501018575" duration="10097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="324" width="271" height="217" key="#ESLint" timestamp="1604399203670">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state x="661" y="324" width="271" height="217" key="#ESLint/0.0.1600.863@0.0.1600.863" timestamp="1604399203670" />
+    <state x="583" y="190" width="428" height="484" key="FileChooserDialogImpl" timestamp="1604418215249">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state x="583" y="190" width="428" height="484" key="FileChooserDialogImpl/0.0.1600.863@0.0.1600.863" timestamp="1604418215249" />
+    <state width="1577" height="216" key="GridCell.Tab.0.bottom" timestamp="1604502816748">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state width="1577" height="216" key="GridCell.Tab.0.bottom/0.0.1600.863@0.0.1600.863" timestamp="1604502816748" />
+    <state width="1577" height="216" key="GridCell.Tab.0.center" timestamp="1604502816747">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state width="1577" height="216" key="GridCell.Tab.0.center/0.0.1600.863@0.0.1600.863" timestamp="1604502816747" />
+    <state width="1577" height="216" key="GridCell.Tab.0.left" timestamp="1604502816747">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state width="1577" height="216" key="GridCell.Tab.0.left/0.0.1600.863@0.0.1600.863" timestamp="1604502816747" />
+    <state width="1577" height="216" key="GridCell.Tab.0.right" timestamp="1604502816747">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state width="1577" height="216" key="GridCell.Tab.0.right/0.0.1600.863@0.0.1600.863" timestamp="1604502816747" />
+    <state x="296" y="67" key="SettingsEditor" timestamp="1604369539801">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state x="296" y="67" key="SettingsEditor/0.0.1600.863@0.0.1600.863" timestamp="1604369539801" />
+    <state x="463" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1604369520570">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state x="463" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1600.863@0.0.1600.863" timestamp="1604369520570" />
+  </component>
+</project>
