@@ -10,46 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1d555d-443c-418f-855f-f440981304cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/SessionActions.js" afterDir="false" />
+    <list default="true" id="ae1d555d-443c-418f-855f-f440981304cd" name="Default Changelist" comment="First task.&#10;Add &#10;Description of pages:&#10;1./ - home page.&#10;2./ login - Authorization - authorization page.&#10;3./ profile - Profile - a page that displays any information about an authorized user. Should be closed without authorization.&#10;4./ info - Information - a page with any homogeneous information.">
       <change afterPath="$PROJECT_DIR$/src/components/Calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LinkBtn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/calendar-components/CalendarGrid.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/calendar-components/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/calendar-components/SettingData.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/calendar-components/styleCalendarPage.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/calendar-components/styleGrid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/InfoContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/LoginContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ProfileContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/network.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/session.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/session.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,8 +77,16 @@
       <workItem from="1604371855319" duration="12370000" />
       <workItem from="1604445126740" duration="7331000" />
       <workItem from="1604492068453" duration="3520000" />
-      <workItem from="1604501018575" duration="10097000" />
+      <workItem from="1604501018575" duration="10405000" />
     </task>
+    <task id="LOCAL-00001" summary="First task.&#10;Add &#10;Description of pages:&#10;1./ - home page.&#10;2./ login - Authorization - authorization page.&#10;3./ profile - Profile - a page that displays any information about an authorized user. Should be closed without authorization.&#10;4./ info - Information - a page with any homogeneous information.">
+      <created>1604512053152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604512053152</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +103,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First task.&#10;Add &#10;Description of pages:&#10;1./ - home page.&#10;2./ login - Authorization - authorization page.&#10;3./ profile - Profile - a page that displays any information about an authorized user. Should be closed without authorization.&#10;4./ info - Information - a page with any homogeneous information." />
+    <option name="LAST_COMMIT_MESSAGE" value="First task.&#10;Add &#10;Description of pages:&#10;1./ - home page.&#10;2./ login - Authorization - authorization page.&#10;3./ profile - Profile - a page that displays any information about an authorized user. Should be closed without authorization.&#10;4./ info - Information - a page with any homogeneous information." />
   </component>
   <component name="WindowStateProjectService">
     <state x="661" y="324" width="271" height="217" key="#ESLint" timestamp="1604399203670">
@@ -158,6 +137,10 @@
       <screen x="0" y="0" width="1600" height="863" />
     </state>
     <state x="296" y="67" key="SettingsEditor/0.0.1600.863@0.0.1600.863" timestamp="1604369539801" />
+    <state x="395" y="154" width="804" height="556" key="Vcs.Push.Dialog.v2" timestamp="1604512077656">
+      <screen x="0" y="0" width="1600" height="863" />
+    </state>
+    <state x="395" y="154" width="804" height="556" key="Vcs.Push.Dialog.v2/0.0.1600.863@0.0.1600.863" timestamp="1604512077656" />
     <state x="463" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1604369520570">
       <screen x="0" y="0" width="1600" height="863" />
     </state>
